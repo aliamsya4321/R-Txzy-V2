@@ -1,1 +1,1 @@
-worker: npm start
+worker: node . --sension 'sension.data.json'
